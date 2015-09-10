@@ -1,0 +1,7 @@
+bin
+obj
+Debug
+Release
+*.csproj.user
+*.suo
+.vs
